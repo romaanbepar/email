@@ -1,0 +1,73 @@
+.service .motivate{
+    width:50%;
+}
+
+.service .leftside{
+    background-color: #2120d3;
+    padding: 150px 0;
+}
+
+.service .rightside{
+    background-color: #efefef;
+  
+    padding:190px 0;
+}
+
+.service .leftside h2{
+    font-size: 30px; ;
+  
+    width: 402px;
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-bottom: 25px;
+   
+
+}
+.service .leftside span{
+    display:block;
+   
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
+
+
+.service .evenColumns .rightside h3{
+    width:377px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    line-height: 1.778rem;
+    font-weight: 100;
+
+
+}
+
+.service .evenColumns .rightside div{
+    padding-top: 2.2222222222222223rem;
+    text-align: center;
+    /* padding-bottom: 150px; */
+}
+
+.service .evenColumns .rightside a{
+    padding: 10px;
+    color:#000;
+    font-size: 16px;
+    font-weight: 700;
+    transition: 0.3s ease-in-out all;
+    
+}
+
+.service .evenColumns .rightside a:hover{
+ color: red;
+    transition: 0.3s ease-in-out all;
+}
+
+
+

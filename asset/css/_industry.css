@@ -1,0 +1,60 @@
+.industry .imageContent {
+  width: 50%;
+}
+
+.industry .content {
+  width: 50%;
+}
+
+.industry .imageWrapper {
+}
+
+.industry .imageWrapper {
+  width: 1001px;
+  height: 1126px;
+  max-width: 100%;
+}
+
+.industry .imageWrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.industry .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.industry span:first-child {
+  font-size: 22px;
+  padding-bottom: 1.111111rem;
+  text-decoration: underline;
+}
+
+.industry h2 {
+  font-size: 50px;
+  line-height: 3.056rem;
+  width: 232px;
+  margin: auto;
+  max-width: 100%;
+  padding: 20px 0;
+}
+
+.industry a {
+  font-size: 16px;
+  color: #000;
+  padding-top: 20px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out all;
+}
+.industry span:last-child {
+  text-decoration: none;
+}
+.industry a:hover {
+  color: rgb(238, 44, 130);
+  transition: 0.3s ease-in-out all;
+}

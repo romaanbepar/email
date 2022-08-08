@@ -1,0 +1,16 @@
+.innovation{
+    background-color: #00ffff;
+    padding:170px 0;
+}
+
+.innovation h2{
+    width:820px;
+    max-width: 100%;
+    margin: auto;
+   
+    font-size: 3.056rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 3.0555555555555554rem;
+    letter-spacing: 0rem;
+}

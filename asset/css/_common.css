@@ -1,0 +1,14 @@
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+.evenColumns{
+    display:flex;
+
+}
+/* .commonbutton{
+
+} */

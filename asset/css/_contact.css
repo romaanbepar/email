@@ -1,0 +1,35 @@
+.contact{
+    background-color: #00ffff;
+    padding:50px 0 50px 0 ;
+}
+
+.contact h2{
+    width:376px;
+    max-width: 100%;
+    margin: auto;
+    font-size:40px ;
+    color:#000;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.contact div{
+    text-align: center;
+}
+.contact a:hover{
+   
+    color:#000; 
+     background-color: yellow;
+     transition: 0.3s ease-in-out all;
+}
+
+.contact a{
+    font-size: 16px;
+    padding: 10px 35px;
+    color: #fff;
+    background-color:#000; 
+    transition: 0.3s ease-in-out all;
+
+    line-height: 2.2222222222222223rem;
+
+}

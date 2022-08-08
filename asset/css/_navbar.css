@@ -1,0 +1,50 @@
+header{
+    background-color:#000 ;
+    /* position: fixed;
+    width: 100%; */
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap:60px;
+    padding: 30px 0;
+    font-weight: 700;
+    
+}
+
+nav ul li a{
+    color:#fff;
+    transition: 0.3s ease-in-out all;
+
+}
+nav ul li a:hover{
+    color: yellow;
+    transition: 0.3s ease-in-out all;
+
+}
+
+nav ul span:first-child{
+    margin-right: 10px;
+}
+ 
+nav ul span:last-child{
+    margin-left: 10px;
+}
+nav ul li:nth-of-type(3) a{
+    padding:15px 30px;
+    background-color: yellow;
+    color: #000;
+    font-size: 17px;
+    
+
+}
+
+nav ul li:nth-of-type(3){
+    padding:0 20px;
+    
+
+}
+
+
